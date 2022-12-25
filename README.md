@@ -8,6 +8,6 @@ The financial dashboard contains:
 
 The Financial Dashboard for Market Intelligence has been deployed on Streamlit.
 
-The app can be viewed here: [Financial Dashboard](https://vrunm-financial-dashboard-app-05vytr.streamlit.app/)
+The app can be viewed here: [Financial Dashboard](https://awinml-financial-market-intelligence-app-q6lj0g.streamlit.app/)
 
 
