@@ -16,7 +16,7 @@
 
 - The Financial Dashboard was deployed as a web-app using Streamlit. It contains:
     - **Insights and summaries** for different sections from annual corporate filings.
-    - Identification of **important topics** mentioned in the report.
+    - Identification of **important keywords** mentioned in the report.
     - **Sentiment-based score** that measures the company's performance over a certain time period.
 
 The app can be viewed here: [Financial Dashboard](https://awinml-financial-market-intelligence-app-q6lj0g.streamlit.app/)
