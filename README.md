@@ -35,13 +35,13 @@ Chevron
 5. Food and Beverages:
 Coca Cola, Pepsico
 
-The can be viewed as
+Snapshot of the data:
 <img src="data_snap.png"> 
 
 ## **Sentiment Analysis**
 A local cross validation split was created by randomly sampling rows from the records of 12 companies across sectors like Technology, Finance, Retail and Pharma.
 
-<a href="https://github.com/vrunm/Financial_Dashboard/blob/main/meta_10K.pdf" class="image fit" > A sample 10k report for Meta can be viewed here</a>
+<a href="https://github.com/awinml/financial-market-intelligence/blob/main/meta_10K.pdf" class="image fit" > A sample 10k report for Meta can be viewed here</a>
 
 The RoBERTa, FinBERT and DistilBERT models were fine-tuned for sentiment analysis. The best results were obtained using the fine-tuned **DistilBERT** model. It achieved an Accuracy of 91.11% and an ROC-AUC Score of 0.972.
 
