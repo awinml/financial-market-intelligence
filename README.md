@@ -1,5 +1,7 @@
 # Financial Dashboard for Market Intelligence
 
+![](fin_dash_cover.png)
+
 - Built a end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings of 12 companies.
 
 - Collected text data from 10-K filings from SEC EDGAR using the [SEC ExtractorAPI](https://sec-api.io/). 
